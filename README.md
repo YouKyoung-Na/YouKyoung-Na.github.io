@@ -1,2 +1,1 @@
-# YouKyoung-Na.github.io
-blog
+for CV
