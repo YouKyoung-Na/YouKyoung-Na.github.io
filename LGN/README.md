@@ -1,5 +1,5 @@
 # Learning from Good Neighbors: Slice-wise Quality-aware CT-to-Diffusion MRI Synthesis (MICCAI 2026)
-You-Kyoung Na, Kang-Ho, Choi, Hyung-Jeong Yang, Jahae Kim*, and Yeong-Jun Cho* \\
+You-Kyoung Na, Kang-Ho, Choi, Hyung-Jeong Yang, Jahae Kim*, and Yeong-Jun Cho*     
 *: Corresponding Authors 
 
 
